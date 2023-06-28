@@ -9,7 +9,7 @@ A full-stack application and tool suite that enables you to turn any document, r
 [view more screenshots](/images/screenshots/SCREENSHOTS.md)
 
 ### Watch the demo!
-
+ 
 [![Watch the video](https://img.youtube.com/vi/0vZ69AIP_hM/maxresdefault.jpg)](https://youtu.be/0vZ69AIP_hM)
 
 
